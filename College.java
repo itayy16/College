@@ -1,11 +1,4 @@
 
-/*
-Assignment number : 8.1
-File Name         : College.java
-Name (First Last) : Itay Hanya
-Student ID        : 311446876
-Email             : Itay.ohad@post.idc.ac.il
-*/
 import linkedList.*;
 
 /**
