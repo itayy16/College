@@ -1,10 +1,4 @@
-/*
-Assignment number : 8.2
-File Name         : CollegeDemo.java
-Name (First Last) : Itay Hanya
-Student ID        : 311446876
-Email             : Itay.ohad@post.idc.ac.il
-*/
+
 /** Tests some of the services of the College class. */
 public class CollegeDemo {
 
