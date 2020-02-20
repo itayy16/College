@@ -1,10 +1,4 @@
-/*
-Assignment number : 8.4
-File Name         : CourseTaken.java
-Name (First Last) : Itay Hanya
-Student ID        : 311446876
-Email             : Itay.ohad@post.idc.ac.il
-*/
+
 /**
  * Represents pairs of Course object and grade.
  */
