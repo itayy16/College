@@ -1,10 +1,4 @@
-/*
-Assignment number : 8.8
-File Name         : Node.java
-Name (First Last) : Itay Hanya
-Student ID        : 311446876
-Email             : Itay.ohad@post.idc.ac.il
-*/
+
 package linkedList;
 
 /**
